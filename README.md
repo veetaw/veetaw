@@ -1,8 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently studying Computer Science at the Università degli Studi di Salerno<br>🌱 I’m currently learning Next.js and React<br>⚡️ I'm interested in inclusive and diversity-friendly development
-
-
-## 🌐 Socials:
+## 🌐 Other platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitopiegari) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vitopiegari) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vito_piegari_) 
 
 # 💻 Tech Stack:
